@@ -1,0 +1,17 @@
+body {
+  transition: 0.3s;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: black;
+}
+
+.project-card {
+  margin-bottom: 20px;
+}
